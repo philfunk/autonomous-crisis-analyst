@@ -1,6 +1,6 @@
 # Autonomous Crisis Analyst
 
-A reusable Manus skill that finds an emerging geopolitical or macroeconomic risk topic on its own, ranks candidate themes by analytical value, and produces a research-grounded Substack article with a dark-mode data visualization.
+A reusable skill that finds an emerging geopolitical or macroeconomic risk topic on its own, ranks candidate themes by analytical value, and produces a research-grounded Substack article with a dark-mode data visualization.
 
 ## What It Produces
 
@@ -28,7 +28,7 @@ The winner is the highest-scoring theme. The analysis should make its selection 
 
 ## Installation
 
-Add `SKILL.md` through the Manus Skills interface, or copy the full folder to the local Manus skills directory:
+Add `SKILL.md` through the Manus Skills interface, or copy the full folder to the local skills directory:
 
 ```bash
 cp -R autonomous-crisis-analyst /home/ubuntu/skills/
