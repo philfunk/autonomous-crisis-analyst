@@ -28,7 +28,7 @@ The winner is the highest-scoring theme. The analysis should make its selection 
 
 ## Installation
 
-Add `SKILL.md` through the Manus Skills interface, or copy the full folder to the local skills directory:
+Add `SKILL.md` through the Skills interface, or copy the full folder to the local skills directory:
 
 ```bash
 cp -R autonomous-crisis-analyst /home/ubuntu/skills/
@@ -68,7 +68,7 @@ Released under the MIT License. See [LICENSE](LICENSE).
 
 ## Attribution
 
-Created as a reusable analysis workflow for Manus.
+Created as a reusable analysis workflow.
 
 ## Disclaimer
 
